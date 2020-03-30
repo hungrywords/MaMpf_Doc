@@ -1,15 +1,15 @@
 \babel@toc {ngerman}{}
-\contentsline {chapter}{\numberline {1}Das technische Fundament}{4}% 
-\contentsline {section}{\numberline {1.1}Die Hardware-Voraussetzungen}{4}% 
-\contentsline {section}{\numberline {1.2}Aufzeichnung mit Camtasia}{5}% 
-\contentsline {section}{\numberline {1.3}Zus\IeC {\"a}tzliche Software}{6}% 
-\contentsline {chapter}{\numberline {2}Nachbearbeitung des Videomaterials}{7}% 
-\contentsline {section}{\numberline {2.1}Separierung von Audio und Video, Transkodierung}{7}% 
-\contentsline {section}{\numberline {2.2}Schnittarbeit mit Camtasia}{9}% 
-\contentsline {section}{\numberline {2.3}Stopfunktion am Ende eines Videos, Link einbauen}{11}% 
-\contentsline {section}{\numberline {2.4}Tipps und Tricks f\IeC {\"u}r den Videoschnitt}{13}% 
-\contentsline {section}{\numberline {2.5}Fertigstellung und Einspeisung in die E-Learning Plattform}{14}% 
-\contentsline {chapter}{\numberline {3}M\IeC {\"o}glichkeiten und Mehrwert digitaler und interaktiver Lerninhalte am Beispiel der Plattform MaMpf}{15}% 
-\contentsline {section}{\numberline {3.1}Vorlesungsbegleitende Quizze [KeKs]}{15}% 
-\contentsline {section}{\numberline {3.2}Weitere Anwendungsgebiete [SeSam und ErDBeere]}{16}% 
-\contentsline {section}{\numberline {3.3}HSE PLACE-Projekt}{16}% 
+\contentsline {chapter}{\numberline {1}Das technische Fundament}{5}% 
+\contentsline {section}{\numberline {1.1}Die Hardware-Voraussetzungen}{5}% 
+\contentsline {section}{\numberline {1.2}Aufzeichnung mit Camtasia}{6}% 
+\contentsline {section}{\numberline {1.3}Zus\IeC {\"a}tzliche Software}{7}% 
+\contentsline {chapter}{\numberline {2}Nachbearbeitung des Videomaterials}{8}% 
+\contentsline {section}{\numberline {2.1}Separierung von Audio und Video, Transkodierung}{8}% 
+\contentsline {section}{\numberline {2.2}Schnittarbeit mit Camtasia}{10}% 
+\contentsline {section}{\numberline {2.3}Stopfunktion am Ende eines Videos, Link einbauen}{12}% 
+\contentsline {section}{\numberline {2.4}Tipps und Tricks f\IeC {\"u}r den Videoschnitt}{14}% 
+\contentsline {section}{\numberline {2.5}Fertigstellung und Einspeisung in die E-Learning Plattform}{15}% 
+\contentsline {chapter}{\numberline {3}M\IeC {\"o}glichkeiten und Mehrwert digitaler und interaktiver Lerninhalte am Beispiel der Plattform MaMpf}{16}% 
+\contentsline {section}{\numberline {3.1}Vorlesungsbegleitende Quizze [KeKs]}{16}% 
+\contentsline {section}{\numberline {3.2}Weitere Anwendungsgebiete [SeSam und ErDBeere]}{17}% 
+\contentsline {section}{\numberline {3.3}HSE PLACE-Projekt}{17}% 
